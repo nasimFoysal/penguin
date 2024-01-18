@@ -1,0 +1,12 @@
+* {
+  /* font-family: 'Bebas Neue', sans-serif; */
+  font-family: "Roboto", sans-serif;
+}
+
+.my-color-primary{
+     color: #FABE4C; ;
+}
+
+.my-color-secondary{
+    background-color: #A4BC46; 
+}
